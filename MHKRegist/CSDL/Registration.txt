@@ -1,0 +1,5 @@
+Toi Bi Ngu,SE201456,0900177013,nguvaicac@gmail.com,HCM,2,6000000
+Thanh Long Dep Trai VCL,SE194547,0399092821,longnguyenthanh07102005@gmail.com,HCM,3,6000000
+ConCakBaMay,HE198820,0309017231,cc3m@gmail.edu.vn,HN,13,6000000
+Thang Lon MAnh,SE170093,0309123454,MAnhThieuNang@fpt.edu.vn,HN,8,6000000
+Anh Dat Truong,DE209847,0219423364,thosanbetrai@yahoo.com.vn,DN,4,6000000
